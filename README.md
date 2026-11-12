@@ -8,4 +8,11 @@
 
 ## Avancement
 
-- 12 nov 2026 : dépôt créé. La première version de la page sera ajoutée dès qu'elle sera prête.
+- 12 nov 2026 : dépôt créé.
+- 12 nov 2026 : première version copiée telle quelle depuis la branche de travail `cursor/cv-ia-page-2a11` du dépôt `cesar-plus` : page française `cv-ia/index.html`, page anglaise `cv-ia/en/index.html`, feuille de style `cv-ia/cv.css`, cinq logos dans `cv-ia/assets/logos/`.
+
+## Aperçus
+
+Ordinateur : ![Aperçu ordinateur](apercus/cv-ia-desktop.png)
+
+Mobile : ![Aperçu mobile](apercus/cv-ia-mobile.png)
